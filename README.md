@@ -2,7 +2,7 @@
 With [version 0.11](https://starkware.medium.com/starknet-alpha-v0-11-0-the-transition-to-cairo-1-0-begins-30442d494515) rolling out on Starknet, you can now deploy your first Cairo 1 contracts on Starknet! Fantastic!
 
 ... But how ser?
-
+///ciao//
 Here is a very rough guide, before we get our doc in order
 
 ## The flow
